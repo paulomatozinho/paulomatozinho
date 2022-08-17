@@ -11,8 +11,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 
-
-
 - HTML 
 - CSS
 - JavaScript
@@ -21,6 +19,9 @@
 - Sass
 - Nodejs
 - React
+
+ <a href="https://www.linkedin.com/in/paulomatozinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 
